@@ -6,5 +6,5 @@
 
 
 ### Result
+![image](https://github.com/AmandaDev25/Number-Triangle/assets/138495890/66f02403-b048-4f30-b1b3-7ef6a28c8928)
 
-![image](https://github.com/AmandaDev25/Number-Triangle/assets/138495890/34e01d85-a156-4319-a920-0ad67368e802)
